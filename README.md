@@ -7,8 +7,12 @@
 <div align="center">
 
 
-<strong>Read the article about Freeway, now on</strong>
-<a href="https://medium.com/@flytechoriginal/freeway-for-network-pentesting-e97e69e481fc">Medium</a>
+<strong>Read the articles about Freeway and WiFi security, <br /> now on <br /></strong>
+<a href="https://medium.com/@flytechoriginal/freeway-for-network-pentesting-e97e69e481fc">Medium/Freeway-For-Network-Pentesting</a>
+<br />
+and
+<br/>
+<a href="https://medium.com/@flytechoriginal/state-of-wifi-security-in-2024-b88091015cc2">Medium/State-of-WiFi-Security-in-2024</a>
 </div>
 <br />
 
