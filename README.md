@@ -42,11 +42,15 @@ It is **necessary** to have:
 
 <h2><strong>4. Setup</strong></h2>
 
-**Option A**: Install via PyPi (pip) **Recommended**
+**Option A**: Install via PyPi (pip)
+
+<sub>**Recommended**</sub>
 
 ```
   $ sudo pip install 3way
 ```
+
+<br />
 
 **Option B**: Install or run manually
 
