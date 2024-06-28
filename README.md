@@ -177,8 +177,6 @@ In case where Freeway doesn't meet the expectations and was installed via pip, t
 
 ✅ Packet Crafter
 
-❌ ARP Spoofer
-
 <h2>Changelog</h2>
 
 > 19.05
