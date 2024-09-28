@@ -1,13 +1,14 @@
 <div align="center">
   <img src="https://github.com/FLOCK4H/Freeway/assets/161654571/85eb939d-0154-4767-8aab-c3a5e29b1d6f" alt="Freeway logo" />
 
-  $${\color{red}Freeway\ for\ Network\ Pentesting}$$
+  **Freeway for Network Pentesting**
+
 </div>
 
 <div align="center">
 
 
-<strong>Read the article about Freeway, now on</strong>
+Read the article about Freeway, now on
 <a href="https://medium.com/@flytechoriginal/freeway-for-network-pentesting-e97e69e481fc">Medium</a>
 </div>
 <br />
